@@ -55,6 +55,7 @@ a=m*3+b
 print("when x=3:",a)
 ```
 ## Output:
+![introtomlexp1 - Copy - Copy](https://user-images.githubusercontent.com/115707860/225343605-34cbd9b4-5469-48eb-ba0b-d439f2b06b22.png)
 
 
 
